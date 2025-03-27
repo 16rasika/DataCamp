@@ -37,4 +37,38 @@ Course Overview: Proper data modeling is the foundation of data analysis and cre
 
 https://www.datacamp.com/statement-of-accomplishment/course/04388ec0eae87c4b94d9f69cce52a0aae7a4e85c?raw=1
 
+7.Intermediate Data modelling
+
+Course Overview: gained knowledge about facts, dimensions, and their relationships.
+
+https://www.datacamp.com/completed/statement-of-accomplishment/course/5af71f15d21ad63ac4666ab8cb5687ce3c7afe52
+
+8. DAX Functions
+
+Course Overview : DAX, or Data Analysis eXpressions, is a formula language used in Microsoft Power BI to create calculated columns, measures, and custom tables.
+
+https://www.datacamp.com/completed/statement-of-accomplishment/course/3404cd3af4bfa4c1f2b7cc1a690e06b72b5dc1cf
+
+9.Intermediate DAX 
+
+Course Overview: This course introduces you to new DAX functions and its many use cases. 
+
+https://www.datacamp.com/completed/statement-of-accomplishment/course/b1815694a5b1104d37867ee58f587193646ac3ba
+
+10.Exploratory Data Analysis
+
+Course Overview :This beginner course for data analysts covers foundational aspects of EDA, including descriptive statistics, handling missing data, analyzing distributions, and identifying outliers. 
+
+https://www.datacamp.com/completed/statement-of-accomplishment/course/2f9f364436ea0ca1f6dbf2010bc4b526a6a06b43
+
+11.Trend Analysis
+
+Course Overview: learn how to analyze time series, visualize your data, and spot trends. 
+
+https://www.datacamp.com/completed/statement-of-accomplishment/course/9f8841bffc43be8f1cd89889d080d6fa5d98faab
+
+
+
+
+
 
