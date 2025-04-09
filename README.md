@@ -1,5 +1,5 @@
-# DataCamp
-![Alt text](Power-BI-Track.JPG)
+# DataCamp Tracks
+![Image](https://github.com/user-attachments/assets/ea8f1b07-17b4-4fdd-bfaf-d5fce70a8e9c)
 
 Data Analyst in Power-BI
 
