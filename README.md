@@ -15,6 +15,8 @@ https://www.datacamp.com/completed/statement-of-accomplishment/track/172b9f3671f
 
 https://www.datacamp.com/completed/statement-of-accomplishment/track/f13419f334e90bfbc9b4b9567a37f31d061f116f?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink
 
+![Image](https://github.com/user-attachments/assets/01d46296-631f-4e8c-bbd5-23199064b5db)
+
 
 
 
