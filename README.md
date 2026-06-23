@@ -1,11 +1,11 @@
 # Certifications
 1.Data Literacy Certification
 
-https://www.datacamp.com/skill-verification/DL0032510088791
-
 <img width="220" height="258" alt="Image" src="https://github.com/user-attachments/assets/9d09d2cc-83e2-4a10-84eb-149e50006351" />
 
+2.Associate Data Engineer
 
+(<img width="317" height="323" alt="Image" src="https://github.com/user-attachments/assets/ca710235-0883-4bfb-a92f-7cd3a396239f" />)
 # DataCamp Tracks
 1.Data Analyst in Power-BI
 
